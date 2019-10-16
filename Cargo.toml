@@ -1,0 +1,6 @@
+[package]
+name = "num_int"
+version = "0.1.0"
+authors = ["JD Wood <j.d.wood83@gmail.com>"]
+
+[dependencies]
